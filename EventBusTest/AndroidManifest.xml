@@ -16,7 +16,5 @@
         android:label="EventBus Test" >
         <uses-library android:name="android.test.runner" />
     </application>
-	
-	//哈哈
 
 </manifest>
